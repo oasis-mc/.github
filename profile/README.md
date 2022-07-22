@@ -3,6 +3,10 @@
 
 <p align="center">Oasis 是多元化的 Minecraft 服务器，为阁下提供「绿洲」式关怀。<br/>在 GitHub 上，我们通过代码定制服务器的功能，从而丰富其内容<br/><sub>Oasis 是 <em><strong>LGBT Friendly</strong></em> 服务器，我们欢迎<strong>任何</strong>性取向和认同的人</sub></p>
 
+## 🔥 项目进行中 / Recommended Repos
+
+暂无。
+
 ## 联系方式 / Contact
 
 - 开发事宜沟通 —— <christophersubilan@gmail.com>
