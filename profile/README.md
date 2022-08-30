@@ -10,8 +10,8 @@
 ## 联系方式 / Contact
 
 - 开发事宜沟通 —— <christophersubilan@gmail.com>
-- 官方网站 —— PLACEHOLDER.COM
-- 官方维基 —— PLACEHOLDER.COM
+- 官方网站 —— <https://oases.red>
+- 官方维基 —— <https://wiki.oases.red>
 - 交流群（QQ） —— 809623422
 - *更多国际联系方式将在稍晚推出*
 
